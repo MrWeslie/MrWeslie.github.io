@@ -4,6 +4,9 @@ module.exports = {
     author: "Hunter Chang",
     description: "A Gatsby.js Starter based on Strata by HTML5 UP"
   },
+
+  pathPrefix: "/MrWeslie.github.io",
+
   plugins: [
     'gatsby-plugin-react-helmet',
     {
@@ -21,4 +24,8 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
   ],
+
 }
+
+
+
