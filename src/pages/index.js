@@ -103,9 +103,9 @@ class HomeIndex extends React.Component {
 
                         <p> <i> Link to various projects: </i> </p>
                         <ol>
-                        <li><a href="https://mrweslie.github.io/Concentration-Game/" ><span className="label">Project 1</span></a></li>
-                        <li><a href="https://frozen-escarpment-76921.herokuapp.com/" ><span className="label">Project 2</span></a></li>
-                        <li><a href="https://stackbananaflow.herokuapp.com/" ><span className="label">Project 3</span></a></li>
+                        <li><a href="https://mrweslie.github.io/Concentration-Game/" ><span className="label">Project- Animal Farm Concentration Game </span></a></li>
+                        <li><a href="https://frozen-escarpment-76921.herokuapp.com/" ><span className="label">Project- Online Claim Submission Form </span></a></li>
+                        <li><a href="https://stackbananaflow.herokuapp.com/" ><span className="label">Project- StackBananaflow </span></a></li>
                         </ol>
 
                     </section>
